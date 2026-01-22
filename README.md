@@ -35,3 +35,12 @@ The application:
 The BMI is calculated using the formula:
 
 BMI = weight (kg) / (height (m) × height (m))
+
+## 📊 BMI Categories Used
+
+| BMI Range          | Health Category |
+|--------------------|-----------------|
+| Less than 18.5     | Underweight     |
+| 18.5 – 24.9        | Normal weight   |
+| 25 – 29.9          | Overweight      |
+| 30 and above       | Obese           |
