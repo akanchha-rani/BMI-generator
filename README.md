@@ -32,12 +32,17 @@ The application:
   
 - To create a beginner-friendly health utility tool
 
+
 ## ✨ Key Features
 
 - 🧠 Accurate BMI calculation using standard formula
+  
 - 📊 Displays BMI value with two decimal precision
+  
 - 🏷️ Automatically detects BMI category
+  
 - 📱 Responsive design for mobile and desktop
+  
 - ⚡ Fast, lightweight, and browser-based (no backend)
 
 ## 🧮 BMI Calculation Logic
