@@ -13,3 +13,11 @@ The application:
 - Performs real-time BMI calculation
 - Displays clear, readable results
 - Categorizes the BMI into standard health ranges
+
+## 🎯 Objectives
+
+- To understand **JavaScript event handling**
+- To practice **DOM manipulation**
+- To build a **responsive and interactive UI**
+- To apply real-world mathematical formulas in code
+- To create a beginner-friendly health utility tool
