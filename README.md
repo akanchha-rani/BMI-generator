@@ -70,3 +70,9 @@ BMI-generator/
    - Applies BMI formula
    - Displays BMI value
    - Shows health category
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Any modern web browser
+- Code editor (VS Code recommended)
