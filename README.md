@@ -44,3 +44,11 @@ BMI = weight (kg) / (height (m) × height (m))
 | 18.5 – 24.9        | Normal weight   |
 | 25 – 29.9          | Overweight      |
 | 30 and above       | Obese           |
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|----------|---------|
+| HTML5 | Structure and input fields |
+| CSS3 | Styling and responsiveness |
+| JavaScript | Logic, calculation, DOM updates |
