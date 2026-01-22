@@ -77,7 +77,7 @@ BMI-generator/
 - Any modern web browser
 - Code editor (VS Code recommended)
 
-🧪 Edge Cases Handled
+## 🧪 Edge Cases Handled
 
 Empty input fields
 
@@ -87,7 +87,7 @@ Invalid number inputs
 
 Decimal height and weight support
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 
 🔄 Support for imperial units (lbs / feet-inches)
 
