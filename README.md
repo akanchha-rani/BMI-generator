@@ -59,3 +59,14 @@ BMI-generator/
 ├── styles.css # Styling and layout
 ├── script.js # BMI calculation logic
 └── README.md # Project documentation
+
+## ⚙️ How the Application Works
+
+1. User enters **height in centimeters**
+2. User enters **weight in kilograms**
+3. On clicking the **Calculate BMI** button:
+   - JavaScript reads input values
+   - Converts height from cm to meters
+   - Applies BMI formula
+   - Displays BMI value
+   - Shows health category
