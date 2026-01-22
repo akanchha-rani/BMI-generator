@@ -52,3 +52,10 @@ BMI = weight (kg) / (height (m) × height (m))
 | HTML5 | Structure and input fields |
 | CSS3 | Styling and responsiveness |
 | JavaScript | Logic, calculation, DOM updates |
+
+BMI-generator/
+│
+├── index.html # Main HTML file
+├── styles.css # Styling and layout
+├── script.js # BMI calculation logic
+└── README.md # Project documentation
