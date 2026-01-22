@@ -76,3 +76,13 @@ BMI-generator/
 ### Prerequisites
 - Any modern web browser
 - Code editor (VS Code recommended)
+
+🧪 Edge Cases Handled
+
+Empty input fields
+
+Zero or negative values
+
+Invalid number inputs
+
+Decimal height and weight support
