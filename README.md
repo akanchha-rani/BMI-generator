@@ -45,11 +45,13 @@ The application:
   
 - ⚡ Fast, lightweight, and browser-based (no backend)
 
+
 ## 🧮 BMI Calculation Logic
 
 The BMI is calculated using the formula:
 
 BMI = weight (kg) / (height (m) × height (m))
+
 
 ## 📊 BMI Categories Used
 
@@ -60,6 +62,7 @@ BMI = weight (kg) / (height (m) × height (m))
 | 25 – 29.9          | Overweight      |
 | 30 and above       | Obese           |
 
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
@@ -69,11 +72,17 @@ BMI = weight (kg) / (height (m) × height (m))
 | JavaScript | Logic, calculation, DOM updates |
 
 BMI-generator/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── styles.css # Styling and layout
+
 ├── script.js # BMI calculation logic
+
 └── README.md # Project documentation
+
 
 ## ⚙️ How the Application Works
 
