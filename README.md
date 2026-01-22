@@ -86,3 +86,15 @@ Zero or negative values
 Invalid number inputs
 
 Decimal height and weight support
+
+🌱 Future Enhancements
+
+🔄 Support for imperial units (lbs / feet-inches)
+
+📈 BMI visual meter or progress bar
+
+🌙 Dark / Light mode
+
+💾 Save BMI history using local storage
+
+🌍 Multi-language support
