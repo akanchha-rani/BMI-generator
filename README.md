@@ -29,3 +29,9 @@ The application:
 - 🏷️ Automatically detects BMI category
 - 📱 Responsive design for mobile and desktop
 - ⚡ Fast, lightweight, and browser-based (no backend)
+
+## 🧮 BMI Calculation Logic
+
+The BMI is calculated using the formula:
+
+BMI = weight (kg) / (height (m) × height (m))
